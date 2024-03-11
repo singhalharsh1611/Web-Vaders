@@ -20,6 +20,6 @@ Proposed Features:
 
 Tech Stacks:
 - React js: To make backend and UI development.
-- Node js: To make frontend.
+- Node js: To make backend.
 - Mongo DB: To manage database.
 - PayTM API: To implement payment gateway.
